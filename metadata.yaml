@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '42640'
     url: http://www.gutenberg.org/2009/agents/42640
     wikipedia: https://fi.wikipedia.org/wiki/Hilja_Walld%C3%A9n
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ebers, Georg
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1800
     wikipedia: https://en.wikipedia.org/wiki/Georg_Ebers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67763#Pormestarin-vaimo-Romaani
 gutenberg_issued: '2022-04-03'
 identifiers:
   gutenberg: '67763'
